@@ -1,0 +1,12 @@
+env
+**/*.pyc
+**/__pycache__
+.DS_Store
+*.sqlite3
+*.env
+settings_development.py
+settings_GitHub.py
+README_PRODUCTION.md
+images_ecommerce
+.env
+media
